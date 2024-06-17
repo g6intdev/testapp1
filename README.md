@@ -12,9 +12,13 @@ To get started with this web app, you need to have node.js (v20 or later, v22 re
 
 ## installing
 
-Clone this repo
+cd into the directoy of your choice and clone this repo
 
         git clone https://github.com/g6intdev/testapp1.git
+
+Move into the directory
+
+        cd testapp1
 
 Then, install required dependencies
 
