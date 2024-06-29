@@ -1,6 +1,6 @@
 # testapp1
 
-This project is for the API frontend for the project [vrjstick](https://github.com/g6intdev/vrjstick).
+This project is for the API backend for the project [vrjstick](https://github.com/g6intdev/vrjstick).
 
 This web app is created using expressjs. 
 
